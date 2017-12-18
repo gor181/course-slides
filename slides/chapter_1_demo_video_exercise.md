@@ -12,8 +12,6 @@ key: 2e1e989d20
 ```
 
 `@lower_third`
-name: Firstname Lastname
-title: Instructor
 
 `@script`
 
