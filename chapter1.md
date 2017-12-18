@@ -20,6 +20,24 @@ video_link: player.vimeo.com/video/154783078
 `@projector_key`
 445b19d9b76ee30a485d6a011ebdcd44
 
+
+
+
+---
+## Demo video exercise - broken slide
+
+```yaml
+type: VideoExercise
+key: 6122e53149
+lang: r
+xp: 50
+skills: 1
+video_link: player.vimeo.com/video/154783078
+```
+
+`@projector_key`
+555b18c19e99b3d7cbae325e331e8ab9
+
 ---
 ## A really bad movie
 
