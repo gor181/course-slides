@@ -38,6 +38,22 @@ video_link: player.vimeo.com/video/154783078
 `@projector_key`
 555b18c19e99b3d7cbae325e331e8ab9
 
+
+---
+## Demo video exercise - completely empty slide
+
+```yaml
+type: VideoExercise
+key: 2956a5360a
+lang: r
+xp: 50
+skills: 1
+video_link: player.vimeo.com/video/154783078
+```
+
+`@projector_key`
+c0224328a33929ec6b7110c35cd486c1
+
 ---
 ## A really bad movie
 
