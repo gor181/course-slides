@@ -4,6 +4,22 @@ description : Insert the chapter description here
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
+
+---
+## Demo video exercise
+
+```yaml
+type: VideoExercise
+key: c5ced5c912
+lang: r
+xp: 50
+skills: 1
+video_link: player.vimeo.com/video/154783078
+```
+
+`@projector_key`
+445b19d9b76ee30a485d6a011ebdcd44
+
 ---
 ## A really bad movie
 
