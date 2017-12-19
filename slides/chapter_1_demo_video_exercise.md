@@ -12,6 +12,8 @@ key: 2e1e989d20
 ```
 
 `@lower_third`
+title: Sir Goran
+name: Goran Udosic
 
 `@script`
 
